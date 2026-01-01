@@ -2,7 +2,7 @@
 # Jupyter / Notebooks
 # =========================
 .ipynb_checkpoints/
-notebook/prepare_data.ipynb
+notebooks/prepare_data.ipynb
 
 # =========================
 # Python cache
