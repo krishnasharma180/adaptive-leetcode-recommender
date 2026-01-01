@@ -1,0 +1,41 @@
+# =========================
+# Jupyter / Notebooks
+# =========================
+.ipynb_checkpoints/
+notebook/prepare_data.ipynb
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+env/
+.venv/
+conda-env/
+
+# =========================
+# Environment variables / secrets
+# =========================
+.env
+.env.*
+*.env
+cookies.txt
+cookies.json
+session.txt
+secrets.json
+
+
+# =========================
+# OS / Editor junk
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
